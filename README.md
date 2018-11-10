@@ -1,2 +1,2 @@
-# hotspot
-Template Hotspot MikroTik
+# Hotspot Login Page
+Mikrotik Hotspot Login Page using Bootstrap.
